@@ -17,7 +17,7 @@ public class Keys {
     /*Key*/
     public static Keys keys;
     /*API 연결에 필요한 키값*/
-    private static String gptKey = "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";
+    private static String gptKey = KeyValue.gptKey;
     
     
     /*키 인스턴스 생선*/
